@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "question": "Explain the process by which plants make their own food.",
+        "reference": "Plants use photosynthesis to convert sunlight, water, and carbon dioxide into energy and food.",
+        "keywords": "photosynthesis, sunlight, carbon dioxide, chlorophyll, glucose"
+    },
+    {
+        "id": 2,
+        "question": "What is the largest organ in the human body and what is its purpose?",
+        "reference": "The skin is the largest organ in the human body, acting as a protective barrier against the environment.",
+        "keywords": "skin, organ, human body, protection, barrier"
+    },
+    {
+        "id": 3,
+        "question": "Describe the basic building blocks of life.",
+        "reference": "Cells are the fundamental building blocks of all living organisms and carry out all life processes.",
+        "keywords": "cells, building blocks, organisms, microscopic"
+    },
+    {
+        "id": 4,
+        "question": "Which part of a cell houses the genetic material or DNA?",
+        "reference": "The nucleus is the cell organelle that contains DNA and coordinates cell activities.",
+        "keywords": "nucleus, DNA, genetic material, organelle, chromosomes"
+    },
+    {
+        "id": 5,
+        "question": "Explain the process of transpiration in plants.",
+        "reference": "Transpiration is the process where water travels through a plant and evaporates from the leaves.",
+        "keywords": "transpiration, evaporation, leaves, xylem, water movement"
+    },
+    {
+        "id": 6,
+        "question": "What is a carbohydrate and why does the body need it?",
+        "reference": "Carbohydrates are organic compounds like sugars and starches that provide the body with energy.",
+        "keywords": "carbohydrate, sugar, starch, energy, glucose"
+    },
+    {
+        "id": 7,
+        "question": "What is the primary function of the heart in the human body?",
+        "reference": "The heart acts as a pump that circulates blood throughout the body to deliver oxygen and nutrients.",
+        "keywords": "heart, pump, blood, circulation, oxygen, nutrients"
+    },
+    {
+        "id": 8,
+        "question": "Briefly describe the process of binary fission.",
+        "reference": "Binary fission is a type of asexual reproduction where a single cell divides into two identical daughter cells.",
+        "keywords": "binary fission, asexual reproduction, division, identical, bacteria"
+    },
+    {
+        "id": 9,
+        "question": "Define the scientific study of biology.",
+        "reference": "Biology is the branch of science that deals with the study of living organisms and their life processes.",
+        "keywords": "biology, science, living organisms, life processes"
+    }
+]
